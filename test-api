@@ -1,0 +1,38 @@
+[
+  {
+    "author": "Klavdia Olga",
+    "title": "How to get your first job as a self-taught programmer",
+    "id": 1,
+    "readTime": 35,
+    "date": "17 DEC, 2018",
+    "profilePicture": "https://i.ibb.co/26jd4dV/pexels-photo-428328.jpg",
+    "coverPhoto": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "author": "Tarina Vitalijus",
+    "title": "For loop in python",
+    "id": 2,
+    "readTime": 5,
+    "date": "17 DEC, 2018",
+    "profilePicture": "https://i.ibb.co/DfJZ6gT/pexels-photo-2269872.jpg",
+    "coverPhoto": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cHJvZ3JhbW1pbmd8ZW58MHwwfDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60"
+  },
+  {
+    "author": "Klavdia Olga",
+    "title": "Install react via Vite",
+    "id": 3,
+    "readTime": 15,
+    "date": "17 DEC, 2018",
+    "profilePicture": "https://i.ibb.co/xD5QbhX/pexels-photo-2416871.jpg",
+    "coverPhoto": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80"
+  },
+  {
+    "author": "Akito Leukippos",
+    "title": "How react works",
+    "id": 4,
+    "readTime": 25,
+    "date": "17 DEC, 2018",
+    "profilePicture": "https://i.ibb.co/26jd4dV/pexels-photo-428328.jpg",
+    "coverPhoto": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]

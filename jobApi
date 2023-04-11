@@ -1,0 +1,56 @@
+[
+  {
+    "_id": 1,
+    "company_name": "Google",
+    "logo": "https://i.ibb.co/K0gRYRC/google-1-1-1.png",
+    "position": "Software engineer",
+    "salary": "$120K",
+    "jobType1": "Full Time",
+    "jobType2": "Remote"
+  },
+  {
+    "_id": 2,
+    "company_name": "Tesla",
+    "logo": "https://i.ibb.co/CvmK1VV/tesla-9-1.png",
+    "position": "Software engineer",
+    "salary": "$150K",
+    "jobType1": "Full Time",
+    "jobType2": "Onsite"
+  },
+  {
+    "_id": 3,
+    "company_name": "Google",
+    "logo": "https://i.ibb.co/K0gRYRC/google-1-1-1.png",
+    "position": "Product Manager",
+    "salary": "$180K",
+    "jobType1": "Full Time",
+    "jobType2": "Onsite"
+  },
+  {
+    "_id": 4,
+    "company_name": "Netflix",
+    "logo": "https://i.ibb.co/FzRQYVs/netflix-4-1.png",
+    "position": "Data Science",
+    "salary": "$210K",
+    "jobType1": "Full Time",
+    "jobType2": "Remote"
+  },
+  {
+    "_id": 5,
+    "company_name": "Netflix",
+    "logo": "https://i.ibb.co/FzRQYVs/netflix-4-1.png",
+    "position": "Content Maker",
+    "salary": "$90K",
+    "jobType1": "Full Time",
+    "jobType2": "Onsite"
+  },
+  {
+    "_id": 6,
+    "company_name": "Tesla",
+    "logo": "https://i.ibb.co/CvmK1VV/tesla-9-1.png",
+    "position": "Algaritham",
+    "salary": "$230K",
+    "jobType1": "Full Time",
+    "jobType2": "Onsite"
+  }
+]

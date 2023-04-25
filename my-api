@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Movie & Series",
+    "id": "movie-series",
+    "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png"
+  },
+  {
+    "name": "Anime",
+    "id": "anime",
+    "img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png"
+  },
+  {
+    "name": "Torrent Search",
+    "id": "torrent-search",
+    "img": "https://i.ibb.co/4mTsPJ1/Torrenttorrent.png"
+  },
+  {
+    "name": "Football",
+    "id": "football",
+    "img": "https://i.ibb.co/bHDgxx0/Live-Football.png"
+  },
+  {
+    "name": "Youtube Downloader",
+    "id": "youtube-downloader",
+    "img": "https://i.ibb.co/q7TJwbn/youtubeyoutube.png"
+  },
+  {
+    "name": "Paid Course",
+    "id": "paid-course",
+    "img": "https://i.ibb.co/rMgm60M/Udemy.png"
+  }
+]

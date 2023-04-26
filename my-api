@@ -4,11 +4,11 @@
     "id": "movie-series",
     "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png",
     "webList": [
-      "https://bflix.ru/",
-      "https://sflix.se/",
+     "https://www.justchill.tv/home"
+      "https://bflix.ru/home",
+      "https://sflix.se/home",
       "https://uhdmovies.vip/",
-      "https://bingewatch.to/",
-      "https://www.justchill.tv/home"
+      "https://bingewatch.to/home",
     ]
   },
   {

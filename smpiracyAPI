@@ -2,7 +2,7 @@
   {
     "name": "Movie & Series",
     "id": "movie-series",
-    "img": "https://i.ibb.co/WDGGLKx/joker-5k-new-art-o8-3840x2160.jpg",
+    "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png",
     "webList": [
       "https://www.justchill.tv/home",
       "https://bflix.ru/home",
@@ -17,12 +17,12 @@
     "img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png",
     "webList": [
       "https://zoro.to/home",
+      "https://kaguya.app/",
       "https://yugen.to/",
       "https://gogoanime.llc/",
       "https://anikatsu.me/home",
       "https://animefox.mobi/home",
       "https://animension.to/",
-      "https://kaguya.app/",
       "https://www.nanime.one/home"
     ]
   },

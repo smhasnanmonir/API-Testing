@@ -2,31 +2,73 @@
   {
     "name": "Movie & Series",
     "id": "movie-series",
-    "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png"
+    "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png",
+    "webList": [
+      "https://bflix.ru/",
+      "https://sflix.se/",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/",
+      "https://www.justchill.tv/home"
+    ]
   },
   {
     "name": "Anime",
     "id": "anime",
-    "img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png"
+    "img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png",
+    "webList": [
+      "https://bflix.ru/",
+      "https://sflix.se/",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/",
+      "https://www.justchill.tv/home"
+    ]
   },
   {
     "name": "Torrent Search",
     "id": "torrent-search",
-    "img": "https://i.ibb.co/4mTsPJ1/Torrenttorrent.png"
+    "img": "https://i.ibb.co/4mTsPJ1/Torrenttorrent.png",
+    "webList": [
+      "https://bflix.ru/",
+      "https://sflix.se/",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/",
+      "https://www.justchill.tv/home"
+    ]
   },
   {
     "name": "Football",
     "id": "football",
-    "img": "https://i.ibb.co/bHDgxx0/Live-Football.png"
+    "img": "https://i.ibb.co/bHDgxx0/Live-Football.png",
+    "webList": [
+      "https://bflix.ru/",
+      "https://sflix.se/",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/",
+      "https://www.justchill.tv/home"
+    ]
   },
   {
     "name": "Youtube Downloader",
     "id": "youtube-downloader",
-    "img": "https://i.ibb.co/q7TJwbn/youtubeyoutube.png"
+    "img": "https://i.ibb.co/q7TJwbn/youtubeyoutube.png",
+    "webList": [
+      "https://bflix.ru/",
+      "https://sflix.se/",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/",
+      "https://www.justchill.tv/home"
+    ]
   },
   {
     "name": "Paid Course",
     "id": "paid-course",
-    "img": "https://i.ibb.co/rMgm60M/Udemy.png"
+    "img": "https://i.ibb.co/rMgm60M/Udemy.png",
+    "webList": [
+      "https://bflix.ru/",
+      "https://sflix.se/",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/",
+      "https://www.justchill.tv/home"
+    ]
   }
 ]

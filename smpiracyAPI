@@ -1,0 +1,75 @@
+[
+  {
+    "name": "Movie & Series",
+    "id": "movie-series",
+    "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png",
+    "webList": [
+      "https://www.justchill.tv/home",
+      "https://bflix.ru/home",
+      "https://sflix.se/home",
+      "https://uhdmovies.vip/",
+      "https://bingewatch.to/home"
+    ]
+  },
+  {
+    "name": "Anime",
+    "id": "anime",
+    "img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png",
+    "webList": [
+      "https://zoro.to/home",
+      "https://yugen.to/",
+      "https://gogoanime.llc/",
+      "https://anikatsu.me/home",
+      "https://animefox.mobi/home",
+      "https://animension.to/",
+      "https://kaguya.app/",
+      "https://www.nanime.one/home"
+    ]
+  },
+  {
+    "name": "Torrent Search",
+    "id": "torrent-search",
+    "img": "https://i.ibb.co/4mTsPJ1/Torrenttorrent.png",
+    "webList": [
+      "https://www.1337xx.to/",
+      "https://www.aiosearch.com/",
+      "https://solidtorrents.to/"
+    ]
+  },
+  {
+    "name": "Football",
+    "id": "football",
+    "img": "https://i.ibb.co/bHDgxx0/Live-Football.png",
+    "webList": [
+      "https://totalsporteks.net/",
+      "https://www.vipstand.st/",
+      "https://fullmatchsports.cc/?tab=fullmatch",
+      "https://highlightsfootball.com/",
+      "https://fullmatchesreplays.com/"
+    ]
+  },
+  {
+    "name": "Paid Course",
+    "id": "paid-course",
+    "img": "https://i.ibb.co/rMgm60M/Udemy.png",
+    "webList": [
+      "https://freecoursesite.com/",
+      "https://freecoursesites.com/",
+      "https://gigacourse.com/?1",
+      "https://udemyfreecourses.org/",
+      "https://getfreecourses.co/"
+    ]
+  },
+  {
+    "name": "Youtube Downloader",
+    "id": "youtube-downloader",
+    "img": "https://i.ibb.co/q7TJwbn/youtubeyoutube.png",
+    "webList": [
+      "https://en.loader.to/4/",
+      "https://ssyoutube.com/en74/youtube-video-downloader",
+      "https://btclod.com/en/b7eae",
+      "https://en.y2mate.is/241/",
+      "https://tomp3.cc/enja4kc/youtube-downloader"
+    ]
+  }
+]

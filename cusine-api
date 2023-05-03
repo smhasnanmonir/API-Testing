@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Chef A",
-    "img": "https://iili.io/HSc1ihB.jpg",
+    "img": "https://iili.io/HSc487f.jpg",
     "foods": [
       {
         "name": "Spaghetti Carbonara",
@@ -21,7 +21,7 @@
   {
     "id": 2,
     "name": "Chef B",
-    "img": "https://iili.io/HSc1sLP.jpg",
+    "img": "https://iili.io/HSc4egs.jpg",
 
     "foods": [
       {
@@ -41,7 +41,7 @@
   {
     "id": 3,
     "name": "Chef C",
-    "img": "https://iili.io/HSc1PIV.jpg",
+    "img": "https://iili.io/HSc4NqX.jpg",
     "foods": [
       {
         "name": "Roast Beef",
@@ -60,7 +60,7 @@
   {
     "id": 4,
     "name": "Chef D",
-    "img": "https://iili.io/HSc14mQ.jpg",
+    "img": "https://iili.io/HSc4jst.jpg",
     "foods": [
       {
         "name": "Sushi Rolls",
@@ -79,7 +79,7 @@
   {
     "id": 5,
     "name": "Chef E",
-    "img": "https://iili.io/HSc1QB1.jpg",
+    "img": "https://iili.io/HSc4O1n.jpg",
     "foods": [
       {
         "name": "Beef Stir-Fry",
@@ -98,7 +98,7 @@
   {
     "id": 6,
     "name": "Chef F",
-    "img": "https://iili.io/HSc1ZEF.jpg",
+    "img": "https://iili.io/HSc4vdG.jpg",
     "foods": [
       {
         "name": "Miso Soup",
@@ -115,4 +115,3 @@
     ]
   }
 ]
-

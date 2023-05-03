@@ -6,6 +6,7 @@
     "experience": "15 Years",
     "recipes": "3",
     "img": "https://i.ibb.co/zbYR4MX/pexels-huy-phan-1397514.jpg",
+    "description": "Chef A is a highly skilled and experienced chef known for their mastery of Italian cuisine. With a passion for creating flavorful dishes, Chef A delights in preparing classic Italian favorites such as Spaghetti Carbonara, Beef Bourguignon, and Tiramisu. Their recipes showcase the perfect balance of ingredients and techniques, resulting in memorable dining experiences.",
     "foods": [
       {
         "name": "Spaghetti Carbonara",
@@ -28,7 +29,7 @@
     "experience": "9 Years",
     "recipes": "3",
     "img": "https://i.ibb.co/m8GNHqc/pexels-cottonbro-studio-4252146.jpg",
-
+    "description": "Chef B is a versatile and innovative chef with expertise in various culinary styles. Known for their creativity and flair, Chef B enjoys experimenting with flavors and ingredients to create unique and delightful dishes. From Grilled Salmon and Chicken Tikka Masala to the indulgent Chocolate Cake, Chef B's recipes showcase their ability to infuse traditional flavors with a modern twist.",
     "foods": [
       {
         "name": "Grilled Salmon",
@@ -51,6 +52,7 @@
     "experience": "13 Years",
     "recipes": "3",
     "img": "https://i.ibb.co/RyNS6nm/pexels-rene-asmussen-2544830.jpg",
+    "description": "Chef C is an adventurous and diverse chef known for their global culinary influences. With a passion for exploring different cuisines, Chef D brings together flavors from around the world to create a fusion of taste sensations. From mastering the art of Sushi Rolls to preparing Chicken Parmesan and Key Lime Pie, Chef D's creations are a testament to their culinary curiosity and innovative spirit.",
     "foods": [
       {
         "name": "Roast Beef",
@@ -73,6 +75,7 @@
     "experience": "10 Years",
     "recipes": "3",
     "img": "https://i.ibb.co/4VJkS8K/pexels-andrea-piacquadio-3769999.jpg",
+    "description": "Chef D is a master of hearty and comforting dishes, specializing in rustic and traditional recipes. With a focus on creating satisfying meals, Chef C excels in preparing dishes like Roast Beef, Vegetable Lasagna, and Apple Pie. Their culinary expertise lies in capturing the essence of classic flavors and presenting them in a wholesome and delicious manner.",
     "foods": [
       {
         "name": "Sushi Rolls",
@@ -95,6 +98,7 @@
     "experience": "7 Years",
     "recipes": "3",
     "img": "https://i.ibb.co/b73XDyW/pexels-tirachard-kumtanom-887827.jpg",
+    "description": "Chef E is an adventurous and diverse chef known for their global culinary influences. With a passion for exploring different cuisines, Chef D brings together flavors from around the world to create a fusion of taste sensations. From mastering the art of Sushi Rolls to preparing Chicken Parmesan and Key Lime Pie, Chef D's creations are a testament to their culinary curiosity and innovative spirit.",
     "foods": [
       {
         "name": "Beef Stir-Fry",
@@ -117,6 +121,7 @@
     "experience": "5 Years",
     "recipes": "3",
     "img": "https://i.ibb.co/cXPyzzC/pexels-cottonbro-studio-4253703.jpg",
+    "description": "Chef F is a highly skilled and experienced chef known for their mastery of Italian cuisine. With a passion for creating flavorful dishes, Chef A delights in preparing classic Italian favorites such as Spaghetti Carbonara, Beef Bourguignon, and Tiramisu. Their recipes showcase the perfect balance of ingredients and techniques, resulting in memorable dining experiences.",
     "foods": [
       {
         "name": "Miso Soup",

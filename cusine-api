@@ -2,6 +2,9 @@
   {
     "id": 1,
     "name": "Chef A",
+    "likes": "200",
+    "experience": "15 Years",
+    "recipes": "3",
     "img": "https://i.ibb.co/zbYR4MX/pexels-huy-phan-1397514.jpg",
     "foods": [
       {
@@ -21,6 +24,9 @@
   {
     "id": 2,
     "name": "Chef B",
+    "likes": "131",
+    "experience": "9 Years",
+    "recipes": "3",
     "img": "https://i.ibb.co/m8GNHqc/pexels-cottonbro-studio-4252146.jpg",
 
     "foods": [
@@ -41,6 +47,9 @@
   {
     "id": 3,
     "name": "Chef C",
+    "likes": "256",
+    "experience": "13 Years",
+    "recipes": "3",
     "img": "https://i.ibb.co/RyNS6nm/pexels-rene-asmussen-2544830.jpg",
     "foods": [
       {
@@ -60,6 +69,9 @@
   {
     "id": 4,
     "name": "Chef D",
+    "likes": "275",
+    "experience": "10 Years",
+    "recipes": "3",
     "img": "https://i.ibb.co/4VJkS8K/pexels-andrea-piacquadio-3769999.jpg",
     "foods": [
       {
@@ -79,6 +91,9 @@
   {
     "id": 5,
     "name": "Chef E",
+    "likes": "250",
+    "experience": "7 Years",
+    "recipes": "3",
     "img": "https://i.ibb.co/b73XDyW/pexels-tirachard-kumtanom-887827.jpg",
     "foods": [
       {
@@ -98,6 +113,9 @@
   {
     "id": 6,
     "name": "Chef F",
+    "likes": "300",
+    "experience": "5 Years",
+    "recipes": "3",
     "img": "https://i.ibb.co/cXPyzzC/pexels-cottonbro-studio-4253703.jpg",
     "foods": [
       {

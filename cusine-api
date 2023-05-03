@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Chef A",
-    "img": "https://iili.io/HSc1ihB.jpg",
+    "img": "https://i.ibb.co/zbYR4MX/pexels-huy-phan-1397514.jpg",
     "foods": [
       {
         "name": "Spaghetti Carbonara",
@@ -21,7 +21,7 @@
   {
     "id": 2,
     "name": "Chef B",
-    "img": "https://iili.io/HSc1sLP.jpg",
+    "img": "https://i.ibb.co/m8GNHqc/pexels-cottonbro-studio-4252146.jpg",
 
     "foods": [
       {
@@ -41,7 +41,7 @@
   {
     "id": 3,
     "name": "Chef C",
-    "img": "https://iili.io/HSc1PIV.jpg",
+    "img": "https://i.ibb.co/RyNS6nm/pexels-rene-asmussen-2544830.jpg",
     "foods": [
       {
         "name": "Roast Beef",
@@ -60,7 +60,7 @@
   {
     "id": 4,
     "name": "Chef D",
-    "img": "https://iili.io/HSc14mQ.jpg",
+    "img": "https://i.ibb.co/4VJkS8K/pexels-andrea-piacquadio-3769999.jpg",
     "foods": [
       {
         "name": "Sushi Rolls",
@@ -79,7 +79,7 @@
   {
     "id": 5,
     "name": "Chef E",
-    "img": "https://iili.io/HSc1QB1.jpg",
+    "img": "https://i.ibb.co/b73XDyW/pexels-tirachard-kumtanom-887827.jpg",
     "foods": [
       {
         "name": "Beef Stir-Fry",
@@ -98,7 +98,7 @@
   {
     "id": 6,
     "name": "Chef F",
-    "img": "https://iili.io/HSc1QB1.jpg",
+    "img": "https://i.ibb.co/cXPyzzC/pexels-cottonbro-studio-4253703.jpg",
     "foods": [
       {
         "name": "Miso Soup",

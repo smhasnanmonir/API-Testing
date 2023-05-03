@@ -1,111 +1,118 @@
-{
-  "chefs": [
-    {
-      "id": 1,
-      "name": "Chef A",
-      "foods": [
-        {
-          "name": "Spaghetti Carbonara",
-          "recipe": "1 lb spaghetti, 1/2 lb pancetta, 4 egg yolks, 1 cup grated Pecorino Romano cheese, 1/2 cup grated Parmesan cheese, salt and black pepper"
-        },
-        {
-          "name": "Beef Bourguignon",
-          "recipe": "2 lbs beef chuck, 1 bottle red wine, 1 onion, 2 garlic cloves, 3 carrots, 3 celery stalks, 3 sprigs fresh thyme, 2 bay leaves, salt and black pepper"
-        },
-        {
-          "name": "Tiramisu",
-          "recipe": "1 lb mascarpone cheese, 4 egg yolks, 1/2 cup sugar, 1/4 cup Marsala wine, 1 cup brewed espresso, 1 package ladyfingers, cocoa powder"
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Chef B",
-      "foods": [
-        {
-          "name": "Grilled Salmon",
-          "recipe": "4 salmon fillets, 1/4 cup olive oil, 2 tbsp lemon juice, 2 tbsp Dijon mustard, 1 tbsp honey, salt and black pepper"
-        },
-        {
-          "name": "Chicken Tikka Masala",
-          "recipe": "2 lbs chicken breast, 1 cup plain yogurt, 2 tbsp vegetable oil, 1 onion, 2 garlic cloves, 1 tbsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1 tsp paprika, 1/2 tsp cayenne pepper, 1 can diced tomatoes, 1 cup heavy cream, salt and black pepper"
-        },
-        {
-          "name": "Chocolate Cake",
-          "recipe": "2 cups all-purpose flour, 2 cups sugar, 3/4 cup unsweetened cocoa powder, 2 tsp baking powder, 1 1/2 tsp baking soda, 1 tsp salt, 1 cup milk, 1/2 cup vegetable oil, 2 eggs, 2 tsp vanilla extract, 1 cup boiling water"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Chef C",
-      "foods": [
-        {
-          "name": "Roast Beef",
-          "recipe": "3 lbs beef roast, 1 onion, 2 garlic cloves, 3 carrots, 3 celery stalks, 3 sprigs fresh thyme, 2 bay leaves, 1/4 cup Worcestershire sauce, salt and black pepper"
-        },
-        {
-          "name": "Vegetable Lasagna",
-          "recipe": "1 box lasagna noodles, 2 cups ricotta cheese, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese, 1 onion, 2 garlic cloves, 2 zucchinis, 2 yellow squashes, 1 red bell pepper, 1 green bell pepper, 1 jar marinara sauce, 1 tbsp olive oil, salt and black pepper"
-        },
-        {
-          "name": "Apple Pie",
-          "recipe": "2 pie crusts, 8 cups thinly sliced apples, 1/2 cup sugar, 1/4 cup all-purpose flour, 1 tsp ground cinnamon, 1/2 tsp ground nutmeg, 1/4 tsp salt, 2 tbsp butter, 1 egg, 1 tbsp milk"
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "Chef D",
-      "foods": [
-        {
-          "name": "Sushi Rolls",
-          "recipe": "2 cups sushi rice, 4 sheets nori seaweed, 1/2 lb fresh fish (tuna, salmon, etc.), 1 cucumber, 1 avocado, soy sauce, wasabi, pickled ginger"
-        },
-        {
-          "name": "Chicken Parmesan",
-          "recipe": "2 boneless, skinless chicken breasts, 1 cup bread crumbs, 1/2 cup grated Parmesan cheese, 2 eggs, 1 cup marinara sauce, 1 cup shredded mozzarella cheese, 1/4 cup chopped fresh basil, salt and black pepper"
-        },
-        {
-          "name": "Key Lime Pie",
-          "recipe": "1 1/2 cups graham cracker crumbs, 1/2 cup melted butter, 1/2 cup granulated sugar, 4 egg yolks, 1 can sweetened condensed milk, 1/2 cup key lime juice, whipped cream, lime slices (for garnish)"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Chef E",
-      "foods": [
-        {
-          "name": "Beef Stir-Fry",
-          "recipe": "1 lb beef sirloin, 2 tbsp soy sauce, 2 tbsp oyster sauce, 1 tbsp cornstarch, 2 tbsp vegetable oil, 1 onion, 2 garlic cloves, 1 bell pepper, 1 cup broccoli florets, salt and black pepper"
-        },
-        {
-          "name": "Caprese Salad",
-          "recipe": "4 ripe tomatoes, 8 oz fresh mozzarella cheese, fresh basil leaves, 2 tbsp extra virgin olive oil, balsamic glaze, salt and black pepper"
-        },
-        {
-          "name": "Banana Bread",
-          "recipe": "2 cups all-purpose flour, 1 tsp baking soda, 1/4 tsp salt, 1/2 cup unsalted butter, 1 cup granulated sugar, 2 large eggs, 4 ripe bananas, 1/4 cup milk, 1 tsp vanilla extract"
-        }
-      ]
-    },{
-      "id": 6,
-      "name": "Chef F",
-      "foods": [
-        {
-          "name": "Miso Soup",
-          "recipe": "4 cups dashi broth, 3 tbsp miso paste, 1/2 cup tofu, 2 green onions, seaweed (optional), salt and black pepper"
-        },
-        {
-          "name": "Pasta Primavera",
-          "recipe": "8 oz pasta, 2 tbsp olive oil, 2 cloves garlic, 1 cup cherry tomatoes, 1 zucchini, 1 yellow squash, 1 cup broccoli florets, 1/2 cup grated Parmesan cheese, salt and black pepper"
-        },
-        {
-          "name": "Lemon Bars",
-          "recipe": "1 1/2 cups all-purpose flour, 1/2 cup powdered sugar, 3/4 cup unsalted butter, 4 large eggs, 1 1/2 cups granulated sugar, 1/4 cup all-purpose flour, 1/4 cup lemon juice, lemon zest, powdered sugar (for dusting)"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Chef A",
+    "img": "https://iili.io/HSc1ihB.jpg",
+    "foods": [
+      {
+        "name": "Spaghetti Carbonara",
+        "recipe": "1 lb spaghetti, 1/2 lb pancetta, 4 egg yolks, 1 cup grated Pecorino Romano cheese, 1/2 cup grated Parmesan cheese, salt and black pepper"
+      },
+      {
+        "name": "Beef Bourguignon",
+        "recipe": "2 lbs beef chuck, 1 bottle red wine, 1 onion, 2 garlic cloves, 3 carrots, 3 celery stalks, 3 sprigs fresh thyme, 2 bay leaves, salt and black pepper"
+      },
+      {
+        "name": "Tiramisu",
+        "recipe": "1 lb mascarpone cheese, 4 egg yolks, 1/2 cup sugar, 1/4 cup Marsala wine, 1 cup brewed espresso, 1 package ladyfingers, cocoa powder"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chef B",
+    "img": "https://iili.io/HSc1sLP.jpg",
+
+    "foods": [
+      {
+        "name": "Grilled Salmon",
+        "recipe": "4 salmon fillets, 1/4 cup olive oil, 2 tbsp lemon juice, 2 tbsp Dijon mustard, 1 tbsp honey, salt and black pepper"
+      },
+      {
+        "name": "Chicken Tikka Masala",
+        "recipe": "2 lbs chicken breast, 1 cup plain yogurt, 2 tbsp vegetable oil, 1 onion, 2 garlic cloves, 1 tbsp grated ginger, 1 tsp ground cumin, 1 tsp ground coriander, 1 tsp paprika, 1/2 tsp cayenne pepper, 1 can diced tomatoes, 1 cup heavy cream, salt and black pepper"
+      },
+      {
+        "name": "Chocolate Cake",
+        "recipe": "2 cups all-purpose flour, 2 cups sugar, 3/4 cup unsweetened cocoa powder, 2 tsp baking powder, 1 1/2 tsp baking soda, 1 tsp salt, 1 cup milk, 1/2 cup vegetable oil, 2 eggs, 2 tsp vanilla extract, 1 cup boiling water"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chef C",
+    "img": "https://iili.io/HSc1PIV.jpg",
+    "foods": [
+      {
+        "name": "Roast Beef",
+        "recipe": "3 lbs beef roast, 1 onion, 2 garlic cloves, 3 carrots, 3 celery stalks, 3 sprigs fresh thyme, 2 bay leaves, 1/4 cup Worcestershire sauce, salt and black pepper"
+      },
+      {
+        "name": "Vegetable Lasagna",
+        "recipe": "1 box lasagna noodles, 2 cups ricotta cheese, 2 cups shredded mozzarella cheese, 1/2 cup grated Parmesan cheese, 1 onion, 2 garlic cloves, 2 zucchinis, 2 yellow squashes, 1 red bell pepper, 1 green bell pepper, 1 jar marinara sauce, 1 tbsp olive oil, salt and black pepper"
+      },
+      {
+        "name": "Apple Pie",
+        "recipe": "2 pie crusts, 8 cups thinly sliced apples, 1/2 cup sugar, 1/4 cup all-purpose flour, 1 tsp ground cinnamon, 1/2 tsp ground nutmeg, 1/4 tsp salt, 2 tbsp butter, 1 egg, 1 tbsp milk"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chef D",
+    "img": "https://iili.io/HSc14mQ.jpg",
+    "foods": [
+      {
+        "name": "Sushi Rolls",
+        "recipe": "2 cups sushi rice, 4 sheets nori seaweed, 1/2 lb fresh fish (tuna, salmon, etc.), 1 cucumber, 1 avocado, soy sauce, wasabi, pickled ginger"
+      },
+      {
+        "name": "Chicken Parmesan",
+        "recipe": "2 boneless, skinless chicken breasts, 1 cup bread crumbs, 1/2 cup grated Parmesan cheese, 2 eggs, 1 cup marinara sauce, 1 cup shredded mozzarella cheese, 1/4 cup chopped fresh basil, salt and black pepper"
+      },
+      {
+        "name": "Key Lime Pie",
+        "recipe": "1 1/2 cups graham cracker crumbs, 1/2 cup melted butter, 1/2 cup granulated sugar, 4 egg yolks, 1 can sweetened condensed milk, 1/2 cup key lime juice, whipped cream, lime slices (for garnish)"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chef E",
+    "img": "https://iili.io/HSc1QB1.jpg",
+    "foods": [
+      {
+        "name": "Beef Stir-Fry",
+        "recipe": "1 lb beef sirloin, 2 tbsp soy sauce, 2 tbsp oyster sauce, 1 tbsp cornstarch, 2 tbsp vegetable oil, 1 onion, 2 garlic cloves, 1 bell pepper, 1 cup broccoli florets, salt and black pepper"
+      },
+      {
+        "name": "Caprese Salad",
+        "recipe": "4 ripe tomatoes, 8 oz fresh mozzarella cheese, fresh basil leaves, 2 tbsp extra virgin olive oil, balsamic glaze, salt and black pepper"
+      },
+      {
+        "name": "Banana Bread",
+        "recipe": "2 cups all-purpose flour, 1 tsp baking soda, 1/4 tsp salt, 1/2 cup unsalted butter, 1 cup granulated sugar, 2 large eggs, 4 ripe bananas, 1/4 cup milk, 1 tsp vanilla extract"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chef F",
+    "img": "https://iili.io/HSc1ZEF.jpg",
+    "foods": [
+      {
+        "name": "Miso Soup",
+        "recipe": "4 cups dashi broth, 3 tbsp miso paste, 1/2 cup tofu, 2 green onions, seaweed (optional), salt and black pepper"
+      },
+      {
+        "name": "Pasta Primavera",
+        "recipe": "8 oz pasta, 2 tbsp olive oil, 2 cloves garlic, 1 cup cherry tomatoes, 1 zucchini, 1 yellow squash, 1 cup broccoli florets, 1/2 cup grated Parmesan cheese, salt and black pepper"
+      },
+      {
+        "name": "Lemon Bars",
+        "recipe": "1 1/2 cups all-purpose flour, 1/2 cup powdered sugar, 3/4 cup unsalted butter, 4 large eggs, 1 1/2 cups granulated sugar, 1/4 cup all-purpose flour, 1/4 cup lemon juice, lemon zest, powdered sugar (for dusting)"
+      }
+    ]
+  }
+]
+

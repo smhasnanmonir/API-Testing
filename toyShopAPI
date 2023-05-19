@@ -1,0 +1,154 @@
+[
+  {
+    "toyName": "Iron Man",
+    "category": "MaleHero",
+    "subCategory": "TechnologicalMaleHeroes",
+    "img": "https://i.ibb.co/QPBNFZF/T2vp3-YXft-XXXXXXXXX-896326266.jpg",
+    "price": "$20",
+    "rating": "4.5"
+  },
+  {
+    "toyName": "Spider Man",
+    "category": "MaleHero",
+    "subCategory": "SuperpoweredMaleHeroes",
+    "img": "https://i.ibb.co/mySDDtn/57.jpg",
+    "price": "$15",
+    "rating": "4.3"
+  },
+  {
+    "toyName": "Captain America",
+    "category": "MaleHero",
+    "subCategory": "SkilledMaleHeroes",
+    "img": "https://i.ibb.co/jgdY1Mq/Capit-o-Am-rica-Foto-Hot-Toys-Facebook.jpg",
+    "price": "$25",
+    "rating": "4.7"
+  },
+  {
+    "toyName": "Ant Man",
+    "category": "MaleHero",
+    "subCategory": "SuperpoweredMaleHeroes",
+    "img": "https://i.ibb.co/4TDrnbD/36392006-10155588054802344-8216462416536403968-o.jpg",
+    "price": "$25",
+    "rating": "4.7"
+  },
+  {
+    "toyName": "Thor",
+    "category": "MaleHero",
+    "subCategory": "SuperpoweredMaleHeroes",
+    "img": "https://i.ibb.co/YP7JNSP/sword-spike-thor.webp",
+    "price": "$25",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Hawkeye",
+    "category": "MaleHero",
+    "subCategory": "SkilledMaleHeroes",
+    "img": "https://i.ibb.co/rcjNjQH/Hawkeye.jpg",
+    "price": "$25",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "War Machine",
+    "category": "MaleHero",
+    "subCategory": "TechnologicalMaleHeroes",
+    "img": "https://i.ibb.co/wKpSgDt/War-Machine.jpg",
+    "price": "$35",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Scarlet Witch",
+    "category": "FemaleHero",
+    "subCategory": "SuperpoweredFeMaleHeroes",
+    "img": "https://i.ibb.co/3rCXkNN/hot-toys-reveals-its-wandavision-scarlet-witch-action-figure.jpg",
+    "price": "$35",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Black Widow",
+    "category": "FemaleHero",
+    "subCategory": "SkilledFemaleHeroes",
+    "img": "https://i.ibb.co/nj6SrhR/TB2-G-o-MXVXXXXbb-Xp-XXXXXXXXXX-354888007.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "The Wasp",
+    "category": "FemaleHero",
+    "subCategory": "SkilledFemaleHeroes",
+    "img": "https://i.ibb.co/xH1By3b/the-wasp-gallery-6.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Iron Heart",
+    "category": "FemaleHero",
+    "subCategory": "TechnologicalFemaleHeroes",
+    "img": "https://i.ibb.co/PFVVJC7/5304415c-b422-4001-8de8-e3409cb9ae25.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Shuri",
+    "category": "FemaleHero",
+    "subCategory": "TechnologicalFemaleHeroes",
+    "img": "https://i.ibb.co/25Z0sSN/67351685-10156413687142344-838402398140497920-n-1.webp",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Madame Masque",
+    "category": "FemaleVillain",
+    "subCategory": "TechnologicalFemaleVillain",
+    "img": "https://i.ibb.co/ss7fgph/P9210615.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Moonstone",
+    "category": "FemaleVillain",
+    "subCategory": "TechnologicalFemaleVillain",
+    "img": "https://i.ibb.co/7n1dbJw/81728-2-57069d62528d0.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Mystique",
+    "category": "FemaleVillain",
+    "subCategory": "SuperpoweredFemaleVillain",
+    "img": "https://i.ibb.co/qMtvP8s/marvel-legends-mystique-action-figure-toy-1200x1200.webp",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Hela",
+    "category": "FemaleVillain",
+    "subCategory": "SuperpoweredFemaleVillain",
+    "img": "https://i.ibb.co/cDBRBFC/Hot-Toys-Hela-Figure-025.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Elektra Natchios",
+    "category": "FemaleVillain",
+    "subCategory": "SkilledFemaleVillain",
+    "img": "https://i.ibb.co/Sd0Njtc/899f749910cc1e7198edd5253c57dcef-elektra-netflix-awesome-toys.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Lady Deathstrike",
+    "category": "FemaleVillain",
+    "subCategory": "SkilledFemaleVillain",
+    "img": "https://i.ibb.co/2FjNHzw/240585847.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  },
+  {
+    "toyName": "Gamora",
+    "category": "FemaleHero",
+    "subCategory": "SuperpoweredFeMaleHeroes",
+    "img": "https://i.ibb.co/TWG86zb/6562617f-14ce-45ab-9d5c-9e1ce294cd7b.jpg",
+    "price": "$75",
+    "rating": "4.9"
+  }
+]

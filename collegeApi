@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Stellar University",
+    "address": "123 Galaxy Avenue, Starlight City, XYZ-789",
+    "sports": ["Basketball", "Soccer", "Swimming"],
+    "events": ["Galactic Fest", "Star Gazer's Night", "Cosmic Carnival"]
+  },
+  {
+    "id": 2,
+    "name": "Enchanted College",
+    "address": "456 Magic Lane, Enchanted Forest, ABC-123",
+    "sports": ["Quidditch", "Dragon Racing", "Magical Archery"],
+    "events": ["Enchantment Ball", "Wizard's Tournament", "Fairy Tale Festival"]
+  },
+  {
+    "id": 3,
+    "name": "Technotron Institute",
+    "address": "789 Innovation Road, Roboville, PQR-456",
+    "sports": ["Robot Soccer", "Drone Racing", "Virtual Reality Gaming"],
+    "events": ["TechExpo", "Innovation Hackathon", "AI Symposium"]
+  },
+  {
+    "id": 4,
+    "name": "AquaMarine College",
+    "address": "321 Coral Reef Street, Oceanville, LMN-789",
+    "sports": ["Surfing", "Underwater Rugby", "Beach Volleyball"],
+    "events": ["Marine Carnival", "Aqua Sports Fest", "Oceanic Concert"]
+  },
+  {
+    "id": 5,
+    "name": "Mystic Arts Academy",
+    "address": "987 Enigma Avenue, Magicopolis, XYZ-789",
+    "sports": ["Spellcasting Duel", "Alchemy Olympics", "Mystic Racing"],
+    "events": ["Wizard's Gala", "Enchanted Masquerade", "Magic Symposium"]
+  },
+  {
+    "id": 6,
+    "name": "Cosmic Space Institute",
+    "address": "654 Nebula Boulevard, Starhaven, ABC-123",
+    "sports": ["Zero Gravity Basketball", "Space Racing", "Asteroid Mining"],
+    "events": ["AstroExpo", "Interstellar Summit", "Galactic Ball"]
+  }
+]

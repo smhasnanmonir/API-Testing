@@ -3,7 +3,8 @@
     "name": "Dream's Paradise",
     "id": "Dreams-Paradise",
     "numberId": 1,
-    "img": "https://i.imgur.com/UlkRmQw.jpg",
+    "img": "https://i.imgur.com/g7OwxCd.jpg",
+    "slideimg": "https://i.imgur.com/g7OwxCd.jpg",
     "description": "Mak Inno Group represents our most iconic project in Dhaka's most popular locations. With our bold and innovative designs, quality construction, and luxury finishing materials, we can guarantee that Dream's Paradise Project will completely transform your urban lifestyle.",
     "location": "https://www.google.com/maps/place/Dream+Square+Model+Town,+Bangladesh/@23.731253,90.301415,15z/data=!4m6!3m5!1s0x3755bfd8e5bd8207:0xfbc0bba6699c1a0c!8m2!3d23.7312527!4d90.3014153!16s%2Fg%2F11thb_vvvr?hl=en-US&entry=ttu",
     "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14609.671797915964!2d90.29356149200439!3d23.73247087768154!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bfd8e5bd8207%3A0xfbc0bba6699c1a0c!2sDream%20Square%20Model%20Town!5e0!3m2!1sen!2sbd!4v1690908130429!5m2!1sen!2sbd",
@@ -22,18 +23,17 @@
       "Parks",
       "Clubs"
     ],
-    "insideImages": [
-      "https://i.imgur.com/NQN4WBz.jpg",
-      "https://i.imgur.com/bxST9bC.jpg",
-      "https://i.imgur.com/zb867Xu.jpg",
-      "https://i.imgur.com/1w7L2c4.jpg"
-    ]
+    "insideImage1": "https://i.imgur.com/NQN4WBz.jpg",
+    "insideImage2": "https://i.imgur.com/bxST9bC.jpg",
+    "insideImage3": "https://i.imgur.com/zb867Xu.jpg",
+    "insideImage4": "https://i.imgur.com/1w7L2c4.jpg"
   },
   {
     "name": "Nishorgo Valley",
     "id": "Nishorgo-Valley",
     "numberId": 2,
-    "img": "https://i.imgur.com/764j2N8.jpg",
+    "img": "https://i.imgur.com/vIWIyVS.jpg",
+    "slideimg": "https://i.imgur.com/vIWIyVS.jpg",
     "description": "Green Living with urban lifestyle is no more a myth for tranquility mongers. The urban dwellers of Dhaka city are always dreaming for living accommodations accompanied by garden with plants, open spaces for wander, trees for oxygen and lakes for boating & fishing. A place belonging magic touch of green-living in an environment friendly community with complementary fresh & clean breathing air accompanied by caring & sharing neighbors throughout the year, is a dream coming true by the grace of heavenly initiative called Unveiling the imaginations of urban dwellers and introducing the eco-friendly environment, Mayakunjo Model Town was developed with significant & dynamic aspects of green architecture which was meticulously planned and perfectly designed. The Best Brand of Living was flawlessly designed for the cream de la cream of societies finest. The architecture here is in creating spaces that interrelates, provokes and titillate the green senses. With the casual open layout, every composition of the architectural design exudes eminent and distinguished elegance.",
     "location": "https://www.google.com/maps?ll=23.883025,90.509969&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=7177966179380372765",
     "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14592.743689732753!2d90.509969!3d23.883025000000004!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755cf6237b0c61d%3A0x639d4235abbc251d!2sNishorgo%20Valley!5e0!3m2!1sen!2sus!4v1690908475832!5m2!1sen!2sus",
@@ -52,18 +52,17 @@
       "Parks",
       "Clubs"
     ],
-    "insideImages": [
-      "https://i.imgur.com/NQN4WBz.jpg",
-      "https://i.imgur.com/bxST9bC.jpg",
-      "https://i.imgur.com/zb867Xu.jpg",
-      "https://i.imgur.com/1w7L2c4.jpg"
-    ]
+    "insideImage1": "https://i.imgur.com/NQN4WBz.jpg",
+    "insideImage2": "https://i.imgur.com/bxST9bC.jpg",
+    "insideImage3": "https://i.imgur.com/zb867Xu.jpg",
+    "insideImage4": "https://i.imgur.com/1w7L2c4.jpg"
   },
   {
     "name": "Mayakunjo Model Town",
     "numberId": 3,
     "id": "Mayakunjo-Model-Town",
-    "img": "https://i.imgur.com/po2Ko5M.jpg",
+    "img": "https://i.imgur.com/3RM5gLF.jpg",
+    "slideimg": "https://i.imgur.com/287n8Wi.jpg",
     "description": "Green Living with urban lifestyle is no more a myth for tranquility mongers. The urban dwellers of Dhaka city are always dreaming for living accommodations accompanied by garden with plants, open spaces for wander, trees for oxygen and lakes for boating & fishing. A place belonging magic touch of green-living in an environment friendly community with complementary fresh & clean breathing air accompanied by caring & sharing neighbors throughout the year, is a dream coming true by the grace of heavenly initiative called Unveiling the imaginations of urban dwellers and introducing the eco-friendly environment, Mayakunjo Model Town was developed with significant & dynamic aspects of green architecture which was meticulously planned and perfectly designed. The Best Brand of Living was flawlessly designed for the cream de la cream of societies finest. The architecture here is in creating spaces that interrelates, provokes and titillate the green senses. With the casual open layout, every composition of the architectural design exudes eminent and distinguished elegance.",
     "location": "https://www.google.com/maps?ll=23.762919,90.299366&z=15&t=m&hl=en-US&gl=US&mapclient=embed&cid=9693566633246697299",
     "iframe": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14606.256384666554!2d90.299366!3d23.762919!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755eb3266016a41%3A0x8686777e853fa753!2sMayakunjo%20Model%20Town!5e0!3m2!1sen!2sus!4v1690908599026!5m2!1sen!2sus",
@@ -82,18 +81,17 @@
       "Parks",
       "Clubs"
     ],
-    "insideImages": [
-      "https://i.imgur.com/NQN4WBz.jpg",
-      "https://i.imgur.com/bxST9bC.jpg",
-      "https://i.imgur.com/zb867Xu.jpg",
-      "https://i.imgur.com/1w7L2c4.jpg"
-    ]
+    "insideImage1": "https://i.imgur.com/NQN4WBz.jpg",
+    "insideImage2": "https://i.imgur.com/bxST9bC.jpg",
+    "insideImage3": "https://i.imgur.com/zb867Xu.jpg",
+    "insideImage4": "https://i.imgur.com/1w7L2c4.jpg"
   },
   {
     "name": "Dream Square Model Town",
     "id": "Dream-Square-Model-Town",
     "numberId": 4,
-    "img": "https://i.imgur.com/gR1Sypf.jpg",
+    "img": "https://i.imgur.com/RTsTg2e.jpg",
+    "slideimg": "https://i.imgur.com/RTsTg2e.jpg",
     "description": "Near Mohammadpur-Dhanmondi, The proposed housing project 'Dream Square' adjacent to the proposed 170 ft Western Bypass should be your future address.Immediate registration. There is interest free easy installment facility.",
     "location": "https://www.google.com/maps/search/Dream+Square+Model+Town/@23.731252,90.301415,15z?hl=en-US&entry=ttu",
     "iframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14609.83606295961!2d90.28404057025908!3d23.731005541009417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755bfdee254807f%3A0x9ff551e771e620cf!2sDream%20Square%20Model%20Town!5e0!3m2!1sen!2sbd!4v1690908636987!5m2!1sen!2sbd",
@@ -112,11 +110,9 @@
       "Parks",
       "Clubs"
     ],
-    "insideImages": [
-      "https://i.imgur.com/NQN4WBz.jpg",
-      "https://i.imgur.com/bxST9bC.jpg",
-      "https://i.imgur.com/zb867Xu.jpg",
-      "https://i.imgur.com/1w7L2c4.jpg"
-    ]
+    "insideImage1": "https://i.imgur.com/NQN4WBz.jpg",
+    "insideImage2": "https://i.imgur.com/bxST9bC.jpg",
+    "insideImage3": "https://i.imgur.com/zb867Xu.jpg",
+    "insideImage4": "https://i.imgur.com/1w7L2c4.jpg"
   }
 ]

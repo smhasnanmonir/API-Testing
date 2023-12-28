@@ -1,86 +1,89 @@
-[{
-		"name": "Movie & Series",
-		"id": "movie-series",
-		"img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png",
-		"webList": [
-			"https://pahe.me/",
-"https://vadapav.mov",
-			"https://bflix.ru/home",
-			"https://sflix.se/home",
-			"https://uhdmovies.life/",
-			"https://bingewatch.to/home",
-			"https://moviesmod.vip/",
-			"https://www.yourserie.com/",
-			"https://www.nollyverse.com/",
-			"https://megaddl.co/",
-			"https://mlwbd.global/",
-			"https://www.streameast.watch/"
-		]
-	},
-	{
-		"name": "Anime",
-		"id": "anime",
-		"img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png",
-		"webList": [
-			"https://aniwatch.to/home",
-			"https://kaguya.app/",
-			"https://yugen.to/",
-			"https://gogoanime.llc/",
-			"https://anikatsu.me/home",
-			"https://animefox.mobi/home",
-			"https://animension.to/",
-			"https://www.nanime.one/home",
-			"https://kayoanime.com/"
-		]
-	},
-	{
-		"name": "Torrent Search",
-		"id": "torrent-search",
-		"img": "https://i.ibb.co/4mTsPJ1/Torrenttorrent.png",
-		"webList": [
-			"https://1337x.to/",
-			"https://kickasstorrents.to/",
-			"https://www.aiosearch.com/"
-		]
-	},
-	{
-		"name": "Football",
-		"id": "football",
-		"img": "https://i.ibb.co/bHDgxx0/Live-Football.png",
-		"webList": [
-"https://tv.shoot-yalla.live/",
-			"https://totalsporteks.net/",
-			"https://www.vipstand.st/",
-			"https://fullmatchsports.cc/?tab=fullmatch",
-			"https://highlightsfootball.com/",
-			"https://fullmatchesreplays.com/",
-"https://soccercatch.com"
-		]
-	},
-	{
-		"name": "Paid Course",
-		"id": "paid-course",
-		"img": "https://i.ibb.co/rMgm60M/Udemy.png",
-		"webList": [
-			"https://freecoursesite.com/",
-			"https://freecoursesites.com/",
-			"https://gigacourse.com/?1",
-			"https://udemyfreecourses.org/",
-			"https://getfreecourses.co/",
-			"https://shorturl.at/fmwJ2"
-		]
-	},
-	{
-		"name": "Youtube Downloader",
-		"id": "youtube-downloader",
-		"img": "https://i.ibb.co/q7TJwbn/youtubeyoutube.png",
-		"webList": [
-			"https://en.loader.to/4/",
-			"https://savetube.io/en13",
-			"https://ssyoutube.com/en74/youtube-video-downloader",
-			"https://btclod.com/en/b7eae",
-			"https://en.y2mate.is/241/",
-			"https://tomp3.cc/enja4kc/youtube-downloader"
-		]
-	}
+[
+    {
+        "name": "Movie & Series",
+        "id": "movie-series",
+        "img": "https://i.ibb.co/pQCh3x6/Seriesmovie.png",
+        "webList": [
+            "https://pahe.me/",
+            "https://sm-movies.vercel.app/",
+            "https://bflix.ru/home",
+            "https://sflix.se/home",
+            "https://uhdmovies.life/",
+            "https://bingewatch.to/home",
+            "https://moviesmod.vip/",
+            "https://www.yourserie.com/",
+            "https://www.nollyverse.com/",
+            "https://megaddl.co/",
+            "https://mlwbd.global/",
+            "https://www.streameast.watch/"
+        ]
+    },
+    {
+        "name": "Anime",
+        "id": "anime",
+        "img": "https://i.ibb.co/9Tr5JZ6/Animeanime.png",
+        "webList": [
+            "https://aniwatch.to/home",
+            "https://kaguya.app/",
+            "https://yugen.to/",
+            "https://gogoanime.llc/",
+            "https://anikatsu.me/home",
+            "https://animefox.mobi/home",
+            "https://animension.to/",
+            "https://www.nanime.one/home",
+            "https://kayoanime.com/"
+        ]
+    },
+    {
+        "name": "Torrent Search",
+        "id": "torrent-search",
+        "img": "https://i.ibb.co/4mTsPJ1/Torrenttorrent.png",
+        "webList": [
+            "https://1337x.to/",
+            "https://kickasstorrents.to/",
+            "https://www.aiosearch.com/"
+        ]
+    },
+    {
+        "name": "Football",
+        "id": "football",
+        "img": "https://i.ibb.co/bHDgxx0/Live-Football.png",
+        "webList": [
+            "https://tv.shoot-yalla.live/",
+            "https://totalsporteks.net/",
+            "https://tezgoal.com/menu-tezgoal/sports/football/",
+            "https://www.vipstand.st/",
+            "https://fullmatchsports.cc/?tab=fullmatch",
+            "https://highlightsfootball.com/",
+            "https://fullmatchesreplays.com/",
+            "https://soccercatch.com"
+        ]
+    },
+    {
+        "name": "Paid Course",
+        "id": "paid-course",
+        "img": "https://i.ibb.co/rMgm60M/Udemy.png",
+        "webList": [
+            "https://freecoursesite.com/",
+            "https://freecoursesites.com/",
+            "https://gigacourse.com/?1",
+            "https://udemyfreecourses.org/",
+            "https://getfreecourses.co/",
+            "https://shorturl.at/fmwJ2"
+        ]
+    },
+    {
+        "name": "Youtube Downloader",
+        "id": "youtube-downloader",
+        "img": "https://i.ibb.co/q7TJwbn/youtubeyoutube.png",
+        "webList": [
+            "https://en.loader.to/4/",
+            "https://next-tube-fawn.vercel.app/",
+            "https://savetube.io/en13",
+            "https://ssyoutube.com/en74/youtube-video-downloader",
+            "https://btclod.com/en/b7eae",
+            "https://en.y2mate.is/241/",
+            "https://tomp3.cc/enja4kc/youtube-downloader"
+        ]
+    }
 ]
